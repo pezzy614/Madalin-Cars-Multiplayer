@@ -1,0 +1,16 @@
+{
+"companyName": "Madalin Games",
+"productName": "Madalin Cars Multiplayer",
+"productVersion": "1.2.1",
+"dataUrl": "ecda705050679d28cbdd94420fff9559.unityweb",
+"wasmCodeUrl": "a750fc64121b010c68e179e1f8a9b6e3.unityweb",
+"wasmFrameworkUrl": "961163e5dd9b3c917175b801b7628543.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "821652a7ba86ba5731dc5409d399d903.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
